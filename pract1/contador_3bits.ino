@@ -1,3 +1,5 @@
+/*Contador de 3 bits, parte de la practica 4 de laboratorio, Creado por Cesar Quinonez Espinoza*/ 
+
 void setup()
 {
   /*inicializamos los pins que utilizaremos*/
