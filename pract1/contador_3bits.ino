@@ -8,7 +8,7 @@ void setup()
 
 void loop()
 {
-  /*Declaramos variables boleanas para los casos de casa led*/
+  /*Declaramos variables boleanas para los casos de los led*/
  bool led1 = 0;
   bool led2 = 0;
   bool led3 = 0;
