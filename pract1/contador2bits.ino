@@ -1,3 +1,5 @@
+/*Cesar Quinonez Espinoza*/
+
 /*Parte de la practica de laboratorio 4 contador de 2 bits en arduino*/
 void setup()
 {
