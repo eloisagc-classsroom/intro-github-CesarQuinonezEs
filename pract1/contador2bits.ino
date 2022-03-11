@@ -1,3 +1,4 @@
+/*Parte de la practica de laboratorio 4 contador de 2 bits en arduino*/
 void setup()
 {
   /*inicializamos los pins que utilizaremos*/
@@ -8,7 +9,7 @@ void setup()
 
 void loop()
 {
-  /*Declaramos variables boleanas para los casos de casa led*/
+  /*Declaramos variables boleanas para los casos de los led*/
  bool led1 = 0;
   bool led2 = 0;
   /*Para generar el numero 1 se utiliza el siquinte if en donde se prenden solamente el primer led*/
